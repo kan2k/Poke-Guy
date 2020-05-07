@@ -1,0 +1,38 @@
+﻿  AppDelegate.cpp
+  HelloWorldScene.cpp
+  MenuScene.cpp
+  main.cpp
+C:\temp\demo\com.test.demo\Classes\HelloWorldScene.cpp(210,1): warning C4996:  'cocos2d::Node::unscheduleAllSelectors': was declared deprecated
+C:\temp\demo\com.test.demo\cocos2d\cocos\2d\CCNode.h(1499): message :  see declaration of 'cocos2d::Node::unscheduleAllSelectors'
+C:\temp\demo\com.test.demo\Classes\HelloWorldScene.cpp(275,28): warning C4305:  'argument': truncation from 'double' to 'float'
+     Creating library C:\temp\demo\com.test.demo\proj.win32\Release.win32\com.test.demo.lib and object C:\temp\demo\com.test.demo\proj.win32\Release.win32\com.test.demo.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 374 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  com.test.demo.vcxproj -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\com.test.demo.exe
+  Performing Custom Build Step
+  C:\temp\demo\com.test.demo\Resources\button_home.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\button_home.png
+  C:\temp\demo\com.test.demo\Resources\button_left.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\button_left.png
+  C:\temp\demo\com.test.demo\Resources\button_left2.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\button_left2.png
+  C:\temp\demo\com.test.demo\Resources\button_pause.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\button_pause.png
+  C:\temp\demo\com.test.demo\Resources\button_retry.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\button_retry.png
+  C:\temp\demo\com.test.demo\Resources\button_right.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\button_right.png
+  C:\temp\demo\com.test.demo\Resources\Character - 副本.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\Character - 副本.png
+  C:\temp\demo\com.test.demo\Resources\Character.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\Character.png
+  C:\temp\demo\com.test.demo\Resources\Character_dead.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\Character_dead.png
+  C:\temp\demo\com.test.demo\Resources\CloseNormal.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\CloseNormal.png
+  C:\temp\demo\com.test.demo\Resources\CloseSelected.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\CloseSelected.png
+  C:\temp\demo\com.test.demo\Resources\Death.mp3 -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\Death.mp3
+  C:\temp\demo\com.test.demo\Resources\HelloWorld.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\HelloWorld.png
+  C:\temp\demo\com.test.demo\Resources\logo.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\logo.png
+  C:\temp\demo\com.test.demo\Resources\nothingspike.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\nothingspike.png
+  C:\temp\demo\com.test.demo\Resources\Spiderdance.mp3 -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\Spiderdance.mp3
+  C:\temp\demo\com.test.demo\Resources\spike.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\spike.png
+  C:\temp\demo\com.test.demo\Resources\spike_top.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\spike_top.png
+  C:\temp\demo\com.test.demo\Resources\static_floor.png -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\static_floor.png
+  C:\temp\demo\com.test.demo\Resources\fonts\arial.ttf -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\fonts\arial.ttf
+  C:\temp\demo\com.test.demo\Resources\fonts\Marker Felt.ttf -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\fonts\Marker Felt.ttf
+  C:\temp\demo\com.test.demo\Resources\fonts\RobotoRegular.ttf -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\fonts\RobotoRegular.ttf
+  C:\temp\demo\com.test.demo\Resources\res\.gitkeep -> C:\temp\demo\com.test.demo\proj.win32\Release.win32\Resources\res\.gitkeep
+  复制了 23 个文件
